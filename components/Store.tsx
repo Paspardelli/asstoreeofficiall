@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import type { Produto } from "@/lib/data";
 
-const WHATS = "5519993293422";
+const WHATS = "5519998073953";
 const IG = "asstoree_officiall";
 const FAIXA = "ASSTORE ★ STREETWEAR ★ PEDIDO PELO WHATSAPP ★ ";
 
